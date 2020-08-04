@@ -1,5 +1,6 @@
 {
   "name": "face-recognition-app",
+  "homepage": "https://gmpgiri.github.io/Face-Detection-App/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
